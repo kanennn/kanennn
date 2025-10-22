@@ -10,15 +10,11 @@ so "spill already" you say...
 
 last night i met with 🍅Bob and 🥒Larry from kitch&sink(a local theatre). larry wasn't there; bob said he heard he got in a bad knife fight and ended up in several pieces. 
 
-***
-end of entry 1 
-
-***
 there is nothing else to say.
 🥒Larry is dead now.
 
 🍅Bob wept.
-
+...
 Keep it up, baby!
 
 <!--
