@@ -13,11 +13,13 @@ last night i met with 🍅Bob and 🥒Larry from kitch&sink(a local theatre). la
 ***
 end of entry 1 
 
+***
+there is nothing else to say.
+🥒Larry is dead now.
 
+🍅Bob wept.
 
-
-
-
+Keep it up, baby!
 
 <!--
 **kanennn/kanennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
