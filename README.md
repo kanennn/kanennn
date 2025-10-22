@@ -1,4 +1,4 @@
-## Let's the honest
+## Let's be honest
 you're not here for the code.\
 you're not here for whatever story you told your boss for why you need to check my profile
 
