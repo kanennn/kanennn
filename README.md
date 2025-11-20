@@ -1,22 +1,14 @@
-## Let's be honest
-you're not here for the code.\
-you're not here for whatever story you told your boss for why you need to check my profile
+# `kanennn@github`
 
-you're here for that garden gossip, that leafy tea 🍂
+## `$ whoami`
 
-so "spill already" you say...
+Heyo! I'm Kanen(nn)!
 
-##
+Welcome to the place where I keep all my things! You will find fun things, shiny things, broken things, a lot of broken things, lost things, a few finished things, and more things.
 
-last night i met with 🍅Bob and 🥒Larry from kitch&sink(a local theatre). larry wasn't there; bob said he heard he got in a bad knife fight and ended up in several pieces. 
+In short, I'm just a funny fellow who likes to code, learn how stuff works, make shiny things, and fix broken things. I'm a big nerd in a bunch of different areas, including all things Linux, CLI, FOSS, computer hardware, circuits, and electrionics in general. I also love tea, minecraft, racoons, art, and philosophy among other things. If you want to know some more about me or get in contact, find me at my website [kanennn.dev](htttps://kanennn.dev)!
 
-there is nothing else to say.
-🥒Larry is dead now.
-
-🍅Bob wept.
-...
-Keep it up, baby!
-
+*batteries not included. terms and conditions may apply. please consult a doctor before hiring kanennn. side effects may include increased exsitentialism, intermittent fun facts, and a higher risk of switching to linux.*
 <!--
 **kanennn/kanennn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
