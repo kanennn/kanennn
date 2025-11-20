@@ -6,7 +6,7 @@ Heyo! I'm Kanen 🦔
 
 Welcome to the place where I keep all my things! You will find fun things, shiny things, broken things, a lot of broken things, lost things, a few finished things, and more things.
 
-In short, I'm just a funny fellow who likes to code, learn how stuff works, make shiny things, and fix broken things. I'm a big nerd in a bunch of different areas, including all things Linux, CLI, FOSS, computer hardware, circuits, and electrionics in general. I also love tea, minecraft, racoons, art, and philosophy among other things. If you want to know some more about me or get in contact, find me at my website [kanennn.dev](htttps://kanennn.dev)!
+In short, I'm just a funny fellow who likes to code, learn how stuff works, make shiny things, and fix broken things. I'm a big nerd in a bunch of different areas, including all things Linux, CLI, FOSS, computer hardware, circuits, and electrionics in general. I also love tea, minecraft, racoons, art, and philosophy among other things. If you want to know some more about me or get in contact, find me at my website [kanennn.dev](https://kanennn.dev)!
 
 
 
