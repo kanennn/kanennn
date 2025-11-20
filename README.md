@@ -1,8 +1,8 @@
 # `kanennn@github`
 
-## `$ whoami`
+### `$ whoami`
 
-Heyo! I'm Kanen(nn)!
+Heyo! I'm Kanen :] *pronounced like "cane-in"*
 
 Welcome to the place where I keep all my things! You will find fun things, shiny things, broken things, a lot of broken things, lost things, a few finished things, and more things.
 
